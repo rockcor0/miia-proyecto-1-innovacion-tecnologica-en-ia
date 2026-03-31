@@ -1,4 +1,4 @@
-# Project Name
+# Predicción del Uso Problemático de Internet en Niños y Adolescentes Mediante Indicadores de Actividad Física
 This project is a part of the  **Proyecto 1 de Innovación Tecnológica** course in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia. 
 
 #### -- Project Status: [Active, On-Hold, Completed]
