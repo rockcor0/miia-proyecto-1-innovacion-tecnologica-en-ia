@@ -1,47 +1,26 @@
-____________________________________________________________________________________
-
-
-# Project Template
-This is the template for the Project I course at the IA Master, Universidad Icesi, Cali Colombia
-
-This template is based on the template proposed by the [Data Science Working Group] (https://github.com/sfbrigade/data-science-wg) Code for the [San Francisco’s Code initiative](https://github.com/sfbrigade/data-science-wg) 
-
-*Instructions: Edit this template filling in the titles, information, and links! Feel free to stray a bit to suit your project but try to provide the main information for reviews and feedback purposes.*
-## Remove this table after updating your project's information
-____________________________________________________________________________________
-
 # Project Name
 This project is a part of the  **Proyecto 1 de Innovación Tecnológica** course in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia. 
 
 #### -- Project Status: [Active, On-Hold, Completed]
 
-## Contributing Members
-
-**Team Leader: [Full Name](https://github.com/[github handle])(@slackHandle)**
-**Instructor: [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
+## 
 
 |Name     |  Email   | 
 |---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+|[David Valencia](https://github.com/davidvalenciaj-collab)| @davidvalenciaj-collab        |
+|[Alonso Arbelaez](https://github.com/alonsoarbelaez-max) |     @alonsoarbelaez-max    |
+|[Ricardo Delgado](https://github.com/rockcor0/]) |     @rockcor0    |
 
 ## Contact
 * Feel free to contact the team leader or the instructor with any questions or if you are interested in contributing!
 
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is develop an ordinal classification model based on physical activity and fitness indicators to predict the level of problematic internet use (SII: 0–3) in children and adolescents aged 5 to 22 from the Healthy Brain Network study, as an accessible early detection mechanism in settings without specialized clinical expertise. 
 
-### Partner
-This section should be added when there's a partner institution 
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
 
 ### Methods Used
+* CRISP-DM 
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
@@ -49,17 +28,18 @@ This section should be added when there's a partner institution
 * etc.
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
 * HTML
 * JavaScript
 * etc. 
 
 ## Project Description
-(Provide a more detailed overview of the project.  Talk a bit about your data sources and what questions and hypotheses you are exploring. What specific data analysis/visualization and modeling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+In the current digital age, problematic internet use among children and adolescents represents a growing public health concern. Recent research links excessive technology use to mental health problems such as depression and anxiety, as well as to the deterioration of physical habits: reduced activity, poor posture, irregular diets, and sleep disturbances.
+
+However, current methods for measuring problematic internet use require specialized clinical assessments (e.g., the Problematic and Risky Internet Use Screening Scale, PRIUSS), which creates access barriers for many families, particularly in contexts with limited resources or without professional expertise.
+
+This project proposes an alternative approach: using physical activity and fitness indicators as accessible proxies for early identification of problematic internet use. The data comes from the Healthy Brain Network (HBN), a longitudinal child mental health study by the Child Mind Institute (New York City), made available as a competition on Kaggle.
 
 ## Getting Started
 Instructions for contributors
